@@ -1,0 +1,30 @@
+{
+  "name": "tmpdb",
+  "version": "1.0.0",
+  "description": "a simple database",
+  "main": "lib/db.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaoweiLuo/tmpdb.git"
+  },
+  "keywords": [
+    "database",
+    "db"
+  ],
+  "author": "Luo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChaoweiLuo/tmpdb/issues"
+  },
+  "homepage": "https://github.com/ChaoweiLuo/tmpdb#readme"
+}
